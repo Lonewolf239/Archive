@@ -1,3 +1,4 @@
-*.exe filter=lfs diff=lfs merge=lfs -text
-*.wav filter=lfs diff=lfs merge=lfs -text
-*.pack filter=lfs diff=lfs merge=lfs -text
+"2023-04/All_In_One/code/resource/sounds/song_for_hacking.wav" filter=lfs diff=lfs merge=lfs -text
+"2023-04/All_In_One/git_dir/objects/pack/pack-979b6eb981b26c8b588a870158f90896f1c5e162.pack" filter=lfs diff=lfs merge=lfs -text
+"2023-04/WI-FI_Fixer/git_dir/objects/pack/pack-5318e7fca9ca3cc1474be367184cf6933dc8f29c.pack" filter=lfs diff=lfs merge=lfs -text
+"2023-09/Base_Escape_Back_to_the_Future/git_dir/objects/pack/pack-9a6ccd5b197a7feeccb512a2e6a44282abebef8a.pack" filter=lfs diff=lfs merge=lfs -text
