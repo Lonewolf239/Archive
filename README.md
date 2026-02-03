@@ -6,7 +6,7 @@
 # Archive
 
 **Git archive of 27 Lonewolf239 projects (2022-2024).**
-Full clones with Git history. Evolution from early experiments to working utilities.
+Full clones with Git history. Evolution from early experiments to early working utilities.
 
 ## Contents by Period
 
@@ -24,13 +24,10 @@ Full clones with Git history. Evolution from early experiments to working utilit
 | **2024-02** | `task_viewer` |
 | **2024-07** | `CreateMemesBOT` |
 
-**Total: 27 projects****
-
 ## Usage
 
 ```bash
-cd YYYY-MM/project
-git log --oneline
+python3 git_navigator.py
 ```
 
 ## Developer
