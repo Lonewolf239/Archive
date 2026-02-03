@@ -1,0 +1,2 @@
+Are you a file tycoon? Or do you have a huge family archive? Or maybe your computer is just filled with a lot of files with confusing names? Agree, if your folders are full of files with incomprehensible, complex and confusing names, then finding the right file will be very difficult. That's where Renamer_v1.2 comes in - it's a simple script that will turn chaos into organized order in a few seconds.
+# By. Lonewolf239
