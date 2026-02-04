@@ -1,7 +1,0 @@
-﻿  pleH.cpp
-  Создание кода
-  Previous IPDB not found, fall back to full compilation.
-F:\code.c\pleH\pleH.cpp(1029): warning C4717: change_function: рекурсия на всех путях выполнения, функция вызовет переполнение стека
-  All 307 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Создание кода завершено
-  pleH.vcxproj -> F:\code.c\pleH\x64\Release\pleH.exe
